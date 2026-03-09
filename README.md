@@ -10,9 +10,9 @@ cd python-trainee-phase1
 python3 -m venv venv
 source venv/bin/activate   
 ```
-## Install requirements
+## 2. Install requirements
 ```
 pip install -r requirements.txt
 ```
-## Run the Python script
+## 3. Run the Python script
 ```python oguntayo-abeebullah-phase1.py```
